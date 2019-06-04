@@ -1852,11 +1852,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a13e56912cd12994d84bf893fd779f87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isBox: 0
   radius: 30
-  targetGrid: {fileID: 1358793977}
-  width: 15
-  height: 30
+  grid: {fileID: 1358793977}
 --- !u!4 &796462490
 Transform:
   m_ObjectHideFlags: 0
